@@ -81,6 +81,10 @@ body a {
     font-weight: 400;
 }
 
+.question {
+    color: rgba(61,70,77,0.75);
+}
+
 .link:hover {
     color: rgba(61,70,77,0.6);
     text-decoration: none;
